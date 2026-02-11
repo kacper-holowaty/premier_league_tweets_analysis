@@ -1,5 +1,7 @@
 # Analiza opinii o Premier League z mediów społecznościowych
 
+> Pełna analiza wraz z kodem źródłowym: [Analiza opinii - Premier League.ipynb](Analiza%20opinii%20-%20Premier%20League.ipynb)
+
 ### 📝 Opis projektu
 Projekt zajmuje się analizą sentymentu oraz badaniem najczęściej pojawiających się słów we wpisach na platformie Twitter dotyczących ligi piłkarskiej Premier League (#premierleague). Analiza obejmuje 12 000 tweetów z lat 2019–2023.
 
